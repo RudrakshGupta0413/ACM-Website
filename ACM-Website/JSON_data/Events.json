@@ -3,19 +3,19 @@
         "id": 0,
         "image_url": "Images/new25/AWS25.jpeg",
         "heading": "AWS Community Day",
-        "content": "DITU ACM Student Chapter organized an event “AWS Community Day Dehradun 2025”  in collaboration with AWS User Group Dehradun. It aimed to build an environment connecting people through innovation, ideas and inspiration."
+        "content": "DITU ACM Student Chapter will be organizing an event “AWS Community Day Dehradun 2025”  in collaboration with AWS User Group Dehradun. It aimed to build an environment connecting people through innovation, ideas and inspiration."
     },
     {
         "id": 1,
-        "image_url": "Images/events/2.jpg",
-        "heading": "Azure DevDay",
-        "content": "DITU ACM Student Chapter organized an event “AZURE DEV DAY” in collaboration with Reskill,which was an offline Workshop on the Microsoft based cloud platform AZURE. The aim of the event was to encourage the awareness of cloud among the participants."
+        "image_url": "Images/new25/Git_linked.jpg",
+        "heading": "GIT LINKED",
+        "content": "DITU ACM Student Chapter organized an event “GIT LINKED” which was an offline Workshop on the famous version control system Git and GitHub. The aim of the event was to encourage the awareness of open source among the participants."
     },
     {
         "id": 2,
-        "image_url": "Images/events/3.jpg",
-        "heading": "SUMO-BOTS",
-        "content": "DITU ACM SC organized a tournament named “Sumo bot ” on 17th of November, 2022. The tournament was organized with a motive of spreading the knowledge about Arduino UNO and components that are used to make such bots , among the students and also make them aware about the insights of robotics."
+        "image_url": "Images/new25/CS101_POS.jpg",
+        "heading": "CS101",
+        "content": "DITU ACM SC organized there Flagship Event “CS101” on 10th of August, 2024. The Event was organized with a motive of spreading the knowledge about Tech and various feilds in ii that are used to make such bots , among the students and also make them aware about the insights of robotics."
     },
     {
         "id": 3,
