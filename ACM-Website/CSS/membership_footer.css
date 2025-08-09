@@ -172,11 +172,12 @@ body {
   flex-direction: row;
   gap: 16%;
   /* width: 360px; */
-  margin-top: 30px;
+  margin-top: 28px;
   justify-content: center;
 }
 .footer-sitemap li {
   list-style: none;
+  font-size: 13px;
 }
 .footer-sitemap a {
   color: white;
