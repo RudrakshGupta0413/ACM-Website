@@ -1,5 +1,6 @@
 *{
     padding: 0; 
+    scroll-behavior: smooth;
     margin: 0;/* to remove the annoying white space between the page margin and the header */
 }
 header
@@ -12,12 +13,12 @@ header
     font-size: 62.5%;
     
 }
-.transbox1{/* Black Transparent Box on the top */
+/* .transbox1{
     background-color: #000000;
     opacity: 0.88;
     width: 100%;
     height: 3.8rem; 
-}
+} */
 .transbox2{/* Blue Transparent Box in the middle */
 
     background-color: #4789C0;
