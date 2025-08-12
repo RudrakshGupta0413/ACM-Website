@@ -8,6 +8,7 @@
 .collab_element{
     display:flex;
     margin-right: 30px;
+    justify-content: space-evenly;
 }
 
  /*div containing collabs-text*/
