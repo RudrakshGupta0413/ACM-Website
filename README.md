@@ -5,3 +5,6 @@ Each of u should maintain an individual branch of your own names or u can do one
 Currently the wesbite is hosted on my vercel account and its not working because of some issues in the codebase, find it and resolve it and after that if needed deploy the project on your own vercel account 3rd years will look into this.
 Also try to make the complete project in one stack (MERN or use Next.js).
 If any issue comes up first try to resolve it on your own take help from your 3rd yrs and if still the issue is not resolved, then open an issue in the repo only i will look into, but first try to resolve it by yourself.
+
+The project is currently deployed on my Vercel account. Due to limitations of the free plan, collaborators cannot be added.
+To continue development smoothly, please deploy the project on your own Vercel account (or one member can do so). This will help in resolving deployment and Vercel-related issues independently.
